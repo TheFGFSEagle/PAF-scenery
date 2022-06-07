@@ -1,0 +1,90 @@
+AC3Db
+MATERIAL "DefaultWhite" rgb 1 1 1  amb 1 1 1  emis 0 0 0  spec 0.5 0.5 0.5  shi 64  trans 0
+MATERIAL "NoName" rgb 1 1 0.8 amb 0.933333 0.933333 0.933333 emis 0 0 0 spec 0 0 0 shi 2 trans 0
+MATERIAL "NoName.001" rgb 1 1 0.8 amb 0.933333 0.933333 0.933333 emis 0 0 0 spec 0 0 0 shi 2 trans 0
+OBJECT world
+kids 4
+OBJECT poly
+name "Plane"
+data 4
+Mesh
+texture "populus-tree.png"
+texrep 1 1
+crease 45.000000
+numvert 4
+4 27.99807 1e-06
+4 -0.00193 0
+-4 -0.00193 0
+-4 27.99807 1e-06
+numsurf 1
+SURF 0x00
+mat 1
+refs 4
+0 0.939303159714 0.997941851616
+3 0.0606968402863 0.997941851616
+2 0.0606968402863 0.00327680003829
+1 0.939303159714 0.00327680003829
+kids 0
+OBJECT poly
+name "Plane.001"
+data 8
+Mesh.001
+texture "populus-tree.png"
+texrep 1 1
+crease 45.000000
+numvert 4
+0.075701 27.998068 4
+0.075702 -0.00193 4
+0.075702 -0.00193 -4
+0.075701 27.998068 -4
+numsurf 1
+SURF 0x00
+mat 2
+refs 4
+0 0.0736793875694 0.991334974766
+3 0.926320612431 0.991334974766
+2 0.926320612431 0.0
+1 0.0736793875694 0.0
+kids 0
+OBJECT poly
+name "Plane.002"
+data 8
+Mesh.002
+texture "populus-tree.png"
+texrep 1 1
+crease 45.000000
+numvert 4
+-0.014213 27.99807 -4.011833
+-0.014213 -0.00193 -4.011833
+0.016296 -0.00193 3.988109
+0.016297 27.99807 3.988109
+numsurf 1
+SURF 0x00
+mat 2
+refs 4
+0 0.0620611608028 0.991334974766
+3 0.937938809395 0.991334974766
+2 0.937938809395 0.0
+1 0.0620611608028 0.0
+kids 0
+OBJECT poly
+name "Plane.003"
+data 8
+Mesh.003
+texture "populus-tree.png"
+texrep 1 1
+crease 45.000000
+numvert 4
+-3.923229 27.99807 0.003104
+-3.923229 -0.00193 0.003105
+4.076713 -0.00193 -0.027406
+4.076713 27.99807 -0.027407
+numsurf 1
+SURF 0x00
+mat 1
+refs 4
+0 0.930031061172 0.994665026665
+3 0.0699689090252 0.994665026665
+2 0.0699689090252 0.0
+1 0.930031061172 0.0
+kids 0

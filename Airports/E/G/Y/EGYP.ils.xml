@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<PropertyList>
+  <runway>
+    <ils>
+      <lon>-58.4820280000001</lon>
+      <lat>-51.8166110000001</lat>
+      <rwy>28</rwy>
+      <hdg-deg>285.67</hdg-deg>
+      <elev-m>74.37</elev-m>
+      <nav-id>MP</nav-id>
+    </ils>
+  </runway>
+</PropertyList>

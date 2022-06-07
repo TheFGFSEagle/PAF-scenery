@@ -1,0 +1,26 @@
+AC3Db
+MATERIAL "DefaultWhite" rgb 1 1 1  amb 1 1 1  emis 0 0 0  spec 0.5 0.5 0.5  shi 64  trans 0
+MATERIAL "Material.001" rgb 0.8 0.8 0.8 amb 0.5 0.5 0.5 emis 0 0 0 spec 1 1 1 shi 0 trans 0
+OBJECT world
+kids 1
+OBJECT poly
+name "rwy.001"
+data 7
+rwy.001
+texture "rwy_trace.png"
+texrep 1 1
+crease 30.000000
+numvert 4
+28.801115 0.113698 -48.959213
+28.796808 -0.602995 48.958172
+-28.801119 -0.113698 48.959209
+-28.796801 0.602995 -48.958191
+numsurf 1
+SURF 0x00
+mat 1
+refs 4
+0 1.78813905904e-07 0.0
+3 0.999999880791 5.960463767e-08
+2 1.0 0.999999880791
+1 0.0 1.0
+kids 0

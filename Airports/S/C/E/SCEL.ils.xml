@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<PropertyList>
+  <runway>
+    <ils>
+      <lon>-70.7848060000001</lon>
+      <lat>-33.411453</lat>
+      <rwy>17L</rwy>
+      <hdg-deg>177.43</hdg-deg>
+      <elev-m>474.88</elev-m>
+      <nav-id>IUEL</nav-id>
+    </ils>
+  </runway>
+  <runway>
+    <ils>
+      <lon>-70.8016670000001</lon>
+      <lat>-33.408056</lat>
+      <rwy>17R</rwy>
+      <hdg-deg>177.28</hdg-deg>
+      <elev-m>472.44</elev-m>
+      <nav-id>IMER</nav-id>
+    </ils>
+  </runway>
+</PropertyList>

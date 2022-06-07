@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+
+<PropertyList>
+	<path>lfke-hangar-01.ac</path>
+	<!--animation>
+					<object-name>Hangar1</object-name>
+					<object-name>hangar1-door-right</object-name>
+					<object-name>hangar1-door-left</object-name>
+					<object-name>hangar1-header</object-name>
+					<type>scale</type>
+					<x-factor>1.0</x-factor>
+					<y-factor>1.0</y-factor>
+					<z-factor>1.0</z-factor>
+	</animation-->
+</PropertyList>
+

@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<PropertyList>
+  <runway>
+    <ils>
+      <lon>-75.3754330000001</lon>
+      <lat>43.139664</lat>
+      <rwy>15</rwy>
+      <hdg-deg>137.16</hdg-deg>
+      <elev-m>218.54</elev-m>
+      <nav-id>IBKG</nav-id>
+    </ils>
+    <ils>
+      <lon>-75.3966720000001</lon>
+      <lat>43.156375</lat>
+      <rwy>33</rwy>
+      <hdg-deg>317.16</hdg-deg>
+      <elev-m>209.40</elev-m>
+      <nav-id>IUCA</nav-id>
+    </ils>
+  </runway>
+</PropertyList>

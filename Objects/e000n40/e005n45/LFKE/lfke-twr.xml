@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+
+<PropertyList>
+	<path>lfke-twr.ac</path>
+	
+	<animation>
+		<type>range</type>
+		<object-name>twr-door-left</object-name>
+		<object-name>twr-door-right</object-name>
+		<object-name>fence</object-name>
+		<min-m>0</min-m>
+		<max-m>1000</max-m>
+	</animation>
+</PropertyList>

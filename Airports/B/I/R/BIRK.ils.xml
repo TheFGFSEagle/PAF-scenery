@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<PropertyList>
+  <runway>
+    <ils>
+      <lon>-21.935833</lon>
+      <lat>64.1205560000001</lat>
+      <rwy>19</rwy>
+      <hdg-deg>175.11</hdg-deg>
+      <elev-m>6.10</elev-m>
+      <nav-id>IRK</nav-id>
+    </ils>
+  </runway>
+  <runway>
+    <ils>
+      <lon>-21.929547</lon>
+      <lat>64.1269500000001</lat>
+      <rwy>13</rwy>
+      <hdg-deg>116.35</hdg-deg>
+      <elev-m>11.58</elev-m>
+      <nav-id>IRE</nav-id>
+    </ils>
+  </runway>
+</PropertyList>

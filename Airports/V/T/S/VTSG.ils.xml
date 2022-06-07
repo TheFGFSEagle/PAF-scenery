@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<PropertyList>
+  <runway>
+    <ils>
+      <lon>98.9784390000001</lon>
+      <lat>8.10850600000001</lat>
+      <rwy>32</rwy>
+      <hdg-deg>320.80</hdg-deg>
+      <elev-m>21.64</elev-m>
+      <nav-id>IKBI</nav-id>
+    </ils>
+  </runway>
+</PropertyList>

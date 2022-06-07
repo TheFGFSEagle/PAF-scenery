@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+
+<PropertyList>
+
+  <path>massif.ac</path>
+<!--effect>
+ <inherits-from>Effects/model-transparent</inherits-from>
+ <object-name>massif</object-name>
+<condition>
+      <property>sim/rendering/rembrandt/enabled</property>
+    </condition>
+</effect-->
+
+
+</PropertyList>

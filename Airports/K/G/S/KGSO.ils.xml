@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<PropertyList>
+  <runway>
+    <ils>
+      <lon>-79.9179970000001</lon>
+      <lat>36.111953</lat>
+      <rwy>05</rwy>
+      <hdg-deg>45.88</hdg-deg>
+      <elev-m>268.83</elev-m>
+      <nav-id>ILZY</nav-id>
+    </ils>
+    <ils>
+      <lon>-79.9462220000001</lon>
+      <lat>36.089833</lat>
+      <rwy>23</rwy>
+      <hdg-deg>225.87</hdg-deg>
+      <elev-m>281.94</elev-m>
+      <nav-id>IHIH</nav-id>
+    </ils>
+  </runway>
+  <runway>
+    <ils>
+      <lon>-79.9350060000001</lon>
+      <lat>36.08525</lat>
+      <rwy>14</rwy>
+      <hdg-deg>135.28</hdg-deg>
+      <elev-m>274.32</elev-m>
+      <nav-id>IGSO</nav-id>
+    </ils>
+  </runway>
+</PropertyList>

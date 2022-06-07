@@ -1,0 +1,24 @@
+AC3Db
+MATERIAL "NoName.004" rgb 1 1 0.8  amb 0.933333 0.933333 0.933333  emis 0 0 0  spec 0 0 0  shi 2  trans 0
+OBJECT world
+kids 1
+OBJECT poly
+name "Plane.005"
+data 8
+Mesh.005
+texture "buisson4.png"
+crease 30.000000
+numvert 4
+0.776531 1.55306 0
+0.776531 0 0
+-0.776531 0 0
+-0.776531 1.55306 0
+numsurf 1
+SURF 0x0
+mat 0
+refs 4
+0 1 1
+3 0 1
+2 0 0.327156
+1 1 0.327156
+kids 0

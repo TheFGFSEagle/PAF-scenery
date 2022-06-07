@@ -1,0 +1,425 @@
+<?xml version="1.0"?>
+
+<!--
+
+LFKE Airport scenario
+
+August 2010
+Charles INGELS <charles@maisonblv.net>
+See http://charles.ingels.free.fr/flightgear/lfke_airport.html
+
+-->
+
+<PropertyList>
+	<models>
+    <model>
+      <legend type="string"></legend>
+      <pitch-deg type="double">0</pitch-deg>
+      <heading-deg type="double">-176</heading-deg>
+      <roll-deg type="double">0</roll-deg>
+      <path type="string">Models/Airport/lfll_tower.ac</path>
+      <latitude-deg type="double">45.725589</latitude-deg>
+      <longitude-deg type="double">5.081067</longitude-deg>
+      <elevation-ft type="double">778.1142193</elevation-ft>
+      <absolute-path type="string">/usr/local/share/FlightGear/build/install/share/data/Models/Airport/lfll_tower.ac</absolute-path>
+      <stg-path type="string">e000n40/e005n45/3039720.stg</stg-path>
+      <stg-heading-deg type="double">176</stg-heading-deg>
+      <elevation-m type="double">237.169214</elevation-m>
+      <object-line type="string">OBJECT_SHARED Models/Airport/lfll_tower.ac 5.08106700 45.72558900 237.1692 176.0</object-line>
+    </model>
+ 
+    <model n="1">
+      <legend type="string"></legend>
+      <pitch-deg type="double">0</pitch-deg>
+      <heading-deg type="double">-40</heading-deg>
+      <roll-deg type="double">0</roll-deg>
+      <path type="string">Models/lfke-airport/lfke-twr.xml</path>
+      <latitude-deg type="double">45.02866256</latitude-deg>
+      <longitude-deg type="double">5.30956031</longitude-deg>
+      <elevation-ft type="double">795.2064062</elevation-ft>
+      <absolute-path type="string">/usr/local/share/FlightGear/build/install/share/data/Models/lfke-airport/lfke-twr.xml</absolute-path>
+      <stg-path type="string">e000n40/e005n45/3039681.stg</stg-path>
+      <stg-heading-deg type="double">40</stg-heading-deg>
+      <elevation-m type="double">242.3789126</elevation-m>
+      <object-line type="string">OBJECT_SHARED Models/lfke-airport/lfke-twr.xml 5.30956031 45.02866256 242.3789 40.0</object-line>
+    </model>
+    <model n="2">
+      <legend type="string"></legend>
+      <pitch-deg type="double">0</pitch-deg>
+      <heading-deg type="double">0</heading-deg>
+      <roll-deg type="double">0</roll-deg>
+      <path type="string">Models/Trees/deciduous-tree.xml</path>
+      <latitude-deg type="double">45.02872314</latitude-deg>
+      <longitude-deg type="double">5.309579001</longitude-deg>
+      <elevation-ft type="double">791.5469871</elevation-ft>
+      <absolute-path type="string">/usr/local/share/FlightGear/build/install/share/data/Models/Trees/deciduous-tree.xml</absolute-path>
+      <stg-path type="string">e000n40/e005n45/3039681.stg</stg-path>
+      <stg-heading-deg type="double">0</stg-heading-deg>
+      <elevation-m type="double">241.2635217</elevation-m>
+      <object-line type="string">OBJECT_SHARED Models/Trees/deciduous-tree.xml 5.30957900 45.02872314 241.2635 0.0</object-line>
+    </model>
+    <model n="3">
+      <legend type="string"></legend>
+      <pitch-deg type="double">0</pitch-deg>
+      <heading-deg type="double">0</heading-deg>
+      <roll-deg type="double">0</roll-deg>
+      <path type="string">Models/Trees/deciduous-tree2.xml</path>
+      <latitude-deg type="double">45.02876412</latitude-deg>
+      <longitude-deg type="double">5.309528501</longitude-deg>
+      <elevation-ft type="double">791.5457871</elevation-ft>
+      <absolute-path type="string">/usr/local/share/FlightGear/build/install/share/data/Models/Trees/deciduous-tree2.xml</absolute-path>
+      <stg-path type="string">e000n40/e005n45/3039681.stg</stg-path>
+      <stg-heading-deg type="double">0</stg-heading-deg>
+      <elevation-m type="double">241.2631559</elevation-m>
+      <object-line type="string">OBJECT_SHARED Models/Trees/deciduous-tree2.xml 5.30952850 45.02876412 241.2632 0.0</object-line>
+    </model>
+    <model n="4">
+      <legend type="string"></legend>
+      <pitch-deg type="double">0</pitch-deg>
+      <heading-deg type="double">0</heading-deg>
+      <roll-deg type="double">0</roll-deg>
+      <path type="string">Models/Trees/deciduous-tree.xml</path>
+      <latitude-deg type="double">45.02883636</latitude-deg>
+      <longitude-deg type="double">5.309446755</longitude-deg>
+      <elevation-ft type="double">791.4093581</elevation-ft>
+      <absolute-path type="string">/usr/local/share/FlightGear/build/install/share/data/Models/Trees/deciduous-tree.xml</absolute-path>
+      <stg-path type="string">e000n40/e005n45/3039681.stg</stg-path>
+      <stg-heading-deg type="double">0</stg-heading-deg>
+      <elevation-m type="double">241.2215723</elevation-m>
+      <object-line type="string">OBJECT_SHARED Models/Trees/deciduous-tree.xml 5.30944675 45.02883636 241.2216 0.0</object-line>
+    </model>
+    <model n="5">
+      <legend type="string"></legend>
+      <pitch-deg type="double">0</pitch-deg>
+      <heading-deg type="double">140.5999999</heading-deg>
+      <roll-deg type="double">-0.5000000149</roll-deg>
+      <path type="string">Models/lfke-airport/marquage-piste-angle.xml</path>
+      <latitude-deg type="double">45.0253735</latitude-deg>
+      <longitude-deg type="double">5.312307957</longitude-deg>
+      <elevation-ft type="double">789.8134963</elevation-ft>
+      <absolute-path type="string">/usr/local/share/FlightGear/build/install/share/data/Models/lfke-airport/marquage-piste-angle.xml</absolute-path>
+      <stg-path type="string">e000n40/e005n45/3039681.stg</stg-path>
+      <stg-heading-deg type="double">219.4000001</stg-heading-deg>
+      <elevation-m type="double">240.7351537</elevation-m>
+      <object-line type="string">OBJECT_SHARED Models/lfke-airport/marquage-piste-angle.xml 5.31230796 45.02537350 240.7352 219.4</object-line>
+    </model>
+    <model n="6">
+      <legend type="string"></legend>
+      <pitch-deg type="double">0.05000000261</pitch-deg>
+      <heading-deg type="double">-38.5</heading-deg>
+      <roll-deg type="double">1.00000003</roll-deg>
+      <path type="string">Models/lfke-airport/marquage-piste-droit.xml</path>
+      <latitude-deg type="double">45.02758082</latitude-deg>
+      <longitude-deg type="double">5.309689316</longitude-deg>
+      <elevation-ft type="double">795.7798881</elevation-ft>
+      <absolute-path type="string">/usr/local/share/FlightGear/build/install/share/data/Models/lfke-airport/marquage-piste-droit.xml</absolute-path>
+      <stg-path type="string">e000n40/e005n45/3039681.stg</stg-path>
+      <stg-heading-deg type="double">38.5</stg-heading-deg>
+      <elevation-m type="double">242.5537099</elevation-m>
+      <object-line type="string">OBJECT_SHARED Models/lfke-airport/marquage-piste-droit.xml 5.30968932 45.02758082 242.5537 38.5</object-line>
+    </model>
+    <model n="7">
+      <legend type="string"></legend>
+      <pitch-deg type="double">0</pitch-deg>
+      <heading-deg type="double">-39.76666666</heading-deg>
+      <roll-deg type="double">-1.299999923</roll-deg>
+      <path type="string">Models/lfke-airport/marquage-piste-droit.xml</path>
+      <latitude-deg type="double">45.02785884</latitude-deg>
+      <longitude-deg type="double">5.310156934</longitude-deg>
+      <elevation-ft type="double">793.2988326</elevation-ft>
+      <absolute-path type="string">/usr/local/share/FlightGear/build/install/share/data/Models/lfke-airport/marquage-piste-droit.xml</absolute-path>
+      <stg-path type="string">e000n40/e005n45/3039681.stg</stg-path>
+      <stg-heading-deg type="double">39.76666666</stg-heading-deg>
+      <elevation-m type="double">241.7974842</elevation-m>
+      <object-line type="string">OBJECT_SHARED Models/lfke-airport/marquage-piste-droit.xml 5.31015693 45.02785884 241.7975 39.8</object-line>
+    </model>
+    <model n="8">
+      <legend type="string"></legend>
+      <pitch-deg type="double">0</pitch-deg>
+      <heading-deg type="double">229</heading-deg>
+      <roll-deg type="double">-1.100000024</roll-deg>
+      <path type="string">Models/lfke-airport/marquage-piste-angle.xml</path>
+      <latitude-deg type="double">45.02980827</latitude-deg>
+      <longitude-deg type="double">5.307063588</longitude-deg>
+      <elevation-ft type="double">796.7363576</elevation-ft>
+      <absolute-path type="string">/usr/local/share/FlightGear/build/install/share/data/Models/lfke-airport/marquage-piste-angle.xml</absolute-path>
+      <stg-path type="string">e000n40/e005n45/3039681.stg</stg-path>
+      <stg-heading-deg type="double">131</stg-heading-deg>
+      <elevation-m type="double">242.8452418</elevation-m>
+      <object-line type="string">OBJECT_SHARED Models/lfke-airport/marquage-piste-angle.xml 5.30706359 45.02980827 242.8452 131.0</object-line>
+    </model>
+    <model n="9">
+      <legend type="string"></legend>
+      <pitch-deg type="double">0</pitch-deg>
+      <heading-deg type="double">-39.83333326</heading-deg>
+      <roll-deg type="double">0</roll-deg>
+      <path type="string">Models/lfke-airport/marquage-piste-angle.xml</path>
+      <latitude-deg type="double">45.03009198</latitude-deg>
+      <longitude-deg type="double">5.307535631</longitude-deg>
+      <elevation-ft type="double">792.7991653</elevation-ft>
+      <absolute-path type="string">/usr/local/share/FlightGear/build/install/share/data/Models/lfke-airport/marquage-piste-angle.xml</absolute-path>
+      <stg-path type="string">e000n40/e005n45/3039681.stg</stg-path>
+      <stg-heading-deg type="double">39.83333326</stg-heading-deg>
+      <elevation-m type="double">241.6451856</elevation-m>
+      <object-line type="string">OBJECT_SHARED Models/lfke-airport/marquage-piste-angle.xml 5.30753563 45.03009198 241.6452 39.8</object-line>
+    </model>
+    <model n="10">
+      <legend type="string"></legend>
+      <pitch-deg type="double">0</pitch-deg>
+      <heading-deg type="double">52</heading-deg>
+      <roll-deg type="double">0</roll-deg>
+      <path type="string">Models/Aircraft/Cessna150.xml</path>
+      <latitude-deg type="double">45.02830208</latitude-deg>
+      <longitude-deg type="double">5.309809855</longitude-deg>
+      <elevation-ft type="double">792.7094973</elevation-ft>
+      <absolute-path type="string">/usr/local/share/FlightGear/build/install/share/data/Models/Aircraft/Cessna150.xml</absolute-path>
+      <stg-path type="string">e000n40/e005n45/3039681.stg</stg-path>
+      <stg-heading-deg type="double">308</stg-heading-deg>
+      <elevation-m type="double">241.6178548</elevation-m>
+      <object-line type="string">OBJECT_SHARED Models/Aircraft/Cessna150.xml 5.30980986 45.02830208 241.6179 308.0</object-line>
+    </model>
+    <model n="11">
+      <legend type="string"></legend>
+      <pitch-deg type="double">0</pitch-deg>
+      <heading-deg type="double">53.20000005</heading-deg>
+      <roll-deg type="double">0</roll-deg>
+      <path type="string">Models/Aircraft/DR400.xml</path>
+      <latitude-deg type="double">45.02815472</latitude-deg>
+      <longitude-deg type="double">5.30998541</longitude-deg>
+      <elevation-ft type="double">792.6181334</elevation-ft>
+      <absolute-path type="string">/usr/local/share/FlightGear/build/install/share/data/Models/Aircraft/DR400.xml</absolute-path>
+      <stg-path type="string">e000n40/e005n45/3039681.stg</stg-path>
+      <stg-heading-deg type="double">306.8</stg-heading-deg>
+      <elevation-m type="double">241.5900071</elevation-m>
+      <object-line type="string">OBJECT_SHARED Models/Aircraft/DR400.xml 5.30998541 45.02815472 241.5900 306.8</object-line>
+    </model>
+    <model n="12">
+      <legend type="string"></legend>
+      <pitch-deg type="double">0</pitch-deg>
+      <heading-deg type="double">52</heading-deg>
+      <roll-deg type="double">0</roll-deg>
+      <path type="string">Models/Aircraft/D112.xml</path>
+      <latitude-deg type="double">45.02803978</latitude-deg>
+      <longitude-deg type="double">5.310100532</longitude-deg>
+      <elevation-ft type="double">792.3668343</elevation-ft>
+      <absolute-path type="string">/usr/local/share/FlightGear/build/install/share/data/Models/Aircraft/D112.xml</absolute-path>
+      <stg-path type="string">e000n40/e005n45/3039681.stg</stg-path>
+      <stg-heading-deg type="double">308</stg-heading-deg>
+      <elevation-m type="double">241.5134111</elevation-m>
+      <object-line type="string">OBJECT_SHARED Models/Aircraft/D112.xml 5.31010053 45.02803978 241.5134 308.0</object-line>
+    </model>
+    <model n="13">
+      <legend type="string"></legend>
+      <pitch-deg type="double">-0.3000000045</pitch-deg>
+      <heading-deg type="double">48</heading-deg>
+      <roll-deg type="double">0</roll-deg>
+      <path type="string">Models/lfke-airport/marquage-piste-angle.xml</path>
+      <latitude-deg type="double">45.02562202</latitude-deg>
+      <longitude-deg type="double">5.312724009</longitude-deg>
+      <elevation-ft type="double">789.1399384</elevation-ft>
+      <absolute-path type="string">/usr/local/share/FlightGear/build/install/share/data/Models/lfke-airport/marquage-piste-angle.xml</absolute-path>
+      <stg-path type="string">e000n40/e005n45/3039681.stg</stg-path>
+      <stg-heading-deg type="double">312</stg-heading-deg>
+      <elevation-m type="double">240.5298532</elevation-m>
+      <object-line type="string">OBJECT_SHARED Models/lfke-airport/marquage-piste-angle.xml 5.31272401 45.02562202 240.5299 312.0</object-line>
+    </model>
+    <model n="14">
+      <legend type="string"></legend>
+      <pitch-deg type="double">0</pitch-deg>
+      <heading-deg type="double">-40.73333335</heading-deg>
+      <roll-deg type="double">0</roll-deg>
+      <path type="string">Models/lfke-airport/marquage-piste-droit.xml</path>
+      <latitude-deg type="double">45.02611109</latitude-deg>
+      <longitude-deg type="double">5.311437565</longitude-deg>
+      <elevation-ft type="double">791.9211184</elevation-ft>
+      <absolute-path type="string">/usr/local/share/FlightGear/build/install/share/data/Models/lfke-airport/marquage-piste-droit.xml</absolute-path>
+      <stg-path type="string">e000n40/e005n45/3039681.stg</stg-path>
+      <stg-heading-deg type="double">40.73333335</stg-heading-deg>
+      <elevation-m type="double">241.3775569</elevation-m>
+      <object-line type="string">OBJECT_SHARED Models/lfke-airport/marquage-piste-droit.xml 5.31143757 45.02611109 241.3776 40.7</object-line>
+    </model>
+    <model n="15">
+      <legend type="string"></legend>
+      <pitch-deg type="double">0</pitch-deg>
+      <heading-deg type="double">-40</heading-deg>
+      <roll-deg type="double">0</roll-deg>
+      <path type="string">Models/lfke-airport/marquage-piste-droit.xml</path>
+      <latitude-deg type="double">45.02635911</latitude-deg>
+      <longitude-deg type="double">5.311913045</longitude-deg>
+      <elevation-ft type="double">791.5518223</elevation-ft>
+      <absolute-path type="string">/usr/local/share/FlightGear/build/install/share/data/Models/lfke-airport/marquage-piste-droit.xml</absolute-path>
+      <stg-path type="string">e000n40/e005n45/3039681.stg</stg-path>
+      <stg-heading-deg type="double">40</stg-heading-deg>
+      <elevation-m type="double">241.2649954</elevation-m>
+      <object-line type="string">OBJECT_SHARED Models/lfke-airport/marquage-piste-droit.xml 5.31191304 45.02635911 241.2650 40.0</object-line>
+    </model>
+    <model n="16">
+      <legend type="string"></legend>
+      <pitch-deg type="double">0</pitch-deg>
+      <heading-deg type="double">140</heading-deg>
+      <roll-deg type="double">0</roll-deg>
+      <path type="string">Models/lfke-airport/marquage-piste-droit.xml</path>
+      <latitude-deg type="double">45.02923524</latitude-deg>
+      <longitude-deg type="double">5.308525446</longitude-deg>
+      <elevation-ft type="double">793.6922811</elevation-ft>
+      <absolute-path type="string">/usr/local/share/FlightGear/build/install/share/data/Models/lfke-airport/marquage-piste-droit.xml</absolute-path>
+      <stg-path type="string">e000n40/e005n45/3039681.stg</stg-path>
+      <stg-heading-deg type="double">220</stg-heading-deg>
+      <elevation-m type="double">241.9174073</elevation-m>
+      <object-line type="string">OBJECT_SHARED Models/lfke-airport/marquage-piste-droit.xml 5.30852545 45.02923524 241.9174 220.0</object-line>
+    </model>
+    <model n="17">
+      <legend type="string"></legend>
+      <pitch-deg type="double">0</pitch-deg>
+      <heading-deg type="double">-40</heading-deg>
+      <roll-deg type="double">0</roll-deg>
+      <path type="string">Models/lfke-airport/marquage-piste-droit.xml</path>
+      <latitude-deg type="double">45.02895946</latitude-deg>
+      <longitude-deg type="double">5.308067605</longitude-deg>
+      <elevation-ft type="double">797.1697101</elevation-ft>
+      <absolute-path type="string">/usr/local/share/FlightGear/build/install/share/data/Models/lfke-airport/marquage-piste-droit.xml</absolute-path>
+      <stg-path type="string">e000n40/e005n45/3039681.stg</stg-path>
+      <stg-heading-deg type="double">40</stg-heading-deg>
+      <elevation-m type="double">242.9773276</elevation-m>
+      <object-line type="string">OBJECT_SHARED Models/lfke-airport/marquage-piste-droit.xml 5.30806760 45.02895946 242.9773 40.0</object-line>
+    </model>
+    <model n="18">
+      <legend type="string"></legend>
+      <pitch-deg type="double">0</pitch-deg>
+      <heading-deg type="double">48</heading-deg>
+      <roll-deg type="double">0</roll-deg>
+      <path type="string">Models/lfke-airport/marquage-piste-droit.xml</path>
+      <latitude-deg type="double">45.02995424</latitude-deg>
+      <longitude-deg type="double">5.307306214</longitude-deg>
+      <elevation-ft type="double">794.6159792</elevation-ft>
+      <absolute-path type="string">/usr/local/share/FlightGear/build/install/share/data/Models/lfke-airport/marquage-piste-droit.xml</absolute-path>
+      <stg-path type="string">e000n40/e005n45/3039681.stg</stg-path>
+      <stg-heading-deg type="double">312</stg-heading-deg>
+      <elevation-m type="double">242.1989505</elevation-m>
+      <object-line type="string">OBJECT_SHARED Models/lfke-airport/marquage-piste-droit.xml 5.30730621 45.02995424 242.1990 312.0</object-line>
+    </model>
+    <model n="19">
+      <legend type="string"></legend>
+      <pitch-deg type="double">0</pitch-deg>
+      <heading-deg type="double">-44</heading-deg>
+      <roll-deg type="double">0.4500000179</roll-deg>
+      <path type="string">Models/lfke-airport/marquage-piste-fleche.xml</path>
+      <latitude-deg type="double">45.02981005</latitude-deg>
+      <longitude-deg type="double">5.307676931</longitude-deg>
+      <elevation-ft type="double">794.374232</elevation-ft>
+      <absolute-path type="string">/usr/local/share/FlightGear/build/install/share/data/Models/lfke-airport/marquage-piste-fleche.xml</absolute-path>
+      <stg-path type="string">e000n40/e005n45/3039681.stg</stg-path>
+      <stg-heading-deg type="double">44</stg-heading-deg>
+      <elevation-m type="double">242.1252659</elevation-m>
+      <object-line type="string">OBJECT_SHARED Models/lfke-airport/marquage-piste-fleche.xml 5.30767693 45.02981005 242.1253 44.0</object-line>
+    </model>
+    <model n="20">
+      <legend type="string"></legend>
+      <pitch-deg type="double">0</pitch-deg>
+      <heading-deg type="double">-41.36666667</heading-deg>
+      <roll-deg type="double">0</roll-deg>
+      <path type="string">Models/lfke-airport/marquage-piste-fleche.xml</path>
+      <latitude-deg type="double">45.02968372</latitude-deg>
+      <longitude-deg type="double">5.307432605</longitude-deg>
+      <elevation-ft type="double">796.3601117</elevation-ft>
+      <absolute-path type="string">/usr/local/share/FlightGear/build/install/share/data/Models/lfke-airport/marquage-piste-fleche.xml</absolute-path>
+      <stg-path type="string">e000n40/e005n45/3039681.stg</stg-path>
+      <stg-heading-deg type="double">41.36666667</stg-heading-deg>
+      <elevation-m type="double">242.730562</elevation-m>
+      <object-line type="string">OBJECT_SHARED Models/lfke-airport/marquage-piste-fleche.xml 5.30743260 45.02968372 242.7306 41.4</object-line>
+    </model>
+    <model n="21">
+      <legend type="string"></legend>
+      <pitch-deg type="double">0</pitch-deg>
+      <heading-deg type="double">48.73333335</heading-deg>
+      <roll-deg type="double">0</roll-deg>
+      <path type="string">Models/lfke-airport/marquage-piste-droit.xml</path>
+      <latitude-deg type="double">45.02547465</latitude-deg>
+      <longitude-deg type="double">5.312530763</longitude-deg>
+      <elevation-ft type="double">789.4613642</elevation-ft>
+      <absolute-path type="string">/usr/local/share/FlightGear/build/install/share/data/Models/lfke-airport/marquage-piste-droit.xml</absolute-path>
+      <stg-path type="string">e000n40/e005n45/3039681.stg</stg-path>
+      <stg-heading-deg type="double">311.2666666</stg-heading-deg>
+      <elevation-m type="double">240.6278238</elevation-m>
+      <object-line type="string">OBJECT_SHARED Models/lfke-airport/marquage-piste-droit.xml 5.31253076 45.02547465 240.6278 311.3</object-line>
+    </model>
+    <model n="22">
+      <legend type="string"></legend>
+      <pitch-deg type="double">-3.517419689e-11</pitch-deg>
+      <heading-deg type="double">-41.5999999</heading-deg>
+      <roll-deg type="double">0.9000000357</roll-deg>
+      <path type="string">Models/lfke-airport/lfke-hangar-01.xml</path>
+      <latitude-deg type="double">45.02795536</latitude-deg>
+      <longitude-deg type="double">5.31042082</longitude-deg>
+      <elevation-ft type="double">794.652786</elevation-ft>
+      <absolute-path type="string">/usr/local/share/FlightGear/build/install/share/data/Models/lfke-airport/lfke-hangar-01.xml</absolute-path>
+      <stg-path type="string">e000n40/e005n45/3039681.stg</stg-path>
+      <stg-heading-deg type="double">41.5999999</stg-heading-deg>
+      <elevation-m type="double">242.2101692</elevation-m>
+      <object-line type="string">OBJECT_SHARED Models/lfke-airport/lfke-hangar-01.xml 5.31042082 45.02795536 242.2102 41.6</object-line>
+    </model>
+    <model n="23">
+      <legend type="string"></legend>
+      <pitch-deg type="double">0.7999999859</pitch-deg>
+      <heading-deg type="double">-40.16666665</heading-deg>
+      <roll-deg type="double">0.3500000015</roll-deg>
+      <path type="string">Models/lfke-airport/lfke-hangar-02.xml</path>
+      <latitude-deg type="double">45.02736919</latitude-deg>
+      <longitude-deg type="double">5.311104522</longitude-deg>
+      <elevation-ft type="double">794.8396887</elevation-ft>
+      <absolute-path type="string">/usr/local/share/FlightGear/build/install/share/data/Models/lfke-airport/lfke-hangar-02.xml</absolute-path>
+      <stg-path type="string">e000n40/e005n45/3039681.stg</stg-path>
+      <stg-heading-deg type="double">40.16666665</stg-heading-deg>
+      <elevation-m type="double">242.2671371</elevation-m>
+      <object-line type="string">OBJECT_SHARED Models/lfke-airport/lfke-hangar-02.xml 5.31110452 45.02736919 242.2671 40.2</object-line>
+    </model>
+    <model n="24">
+      <legend type="string"></legend>
+      <pitch-deg type="double">-0.4500000179</pitch-deg>
+      <heading-deg type="double">0</heading-deg>
+      <roll-deg type="double">0.849999994</roll-deg>
+      <path type="string">Models/Aircraft/DR400-ba.ac</path>
+      <latitude-deg type="double">45.02730583</latitude-deg>
+      <longitude-deg type="double">5.311261774</longitude-deg>
+      <elevation-ft type="double">790.6727595</elevation-ft>
+      <absolute-path type="string">/usr/local/share/FlightGear/build/install/share/data/Models/Aircraft/DR400-ba.ac</absolute-path>
+      <stg-path type="string">e000n40/e005n45/3039681.stg</stg-path>
+      <stg-heading-deg type="double">0</stg-heading-deg>
+      <elevation-m type="double">240.9970571</elevation-m>
+      <object-line type="string">OBJECT_SHARED Models/Aircraft/DR400-ba.ac 5.31126177 45.02730583 240.9971 0.0</object-line>
+    </model>
+
+    <model n="25">
+      <legend type="string"></legend>
+      <heading-deg type="double">140.5999999</heading-deg>
+      <pitch-deg type="double">-0.1500000022</pitch-deg>
+      <roll-deg type="double">0</roll-deg>
+      <path type="string">Models/lfke-airport/lfke-hangar-03.xml</path>
+      <latitude-deg type="double">45.02693249</latitude-deg>
+      <longitude-deg type="double">5.311631407</longitude-deg>
+      <elevation-ft type="double">793.5312536</elevation-ft>
+      <absolute-path type="string">/usr/local/share/FlightGear/build/install/share/data/Models/lfke-airport/lfke-hangar-03.xml</absolute-path>
+      <stg-path type="string">e000n40/e005n45/3039681.stg</stg-path>
+      <stg-heading-deg type="double">219.4000001</stg-heading-deg>
+      <elevation-m type="double">241.8683261</elevation-m>
+      <object-line type="string">OBJECT_SHARED Models/lfke-airport/lfke-hangar-03.xml 5.31163141 45.02693249 241.8683 219.4</object-line>
+    </model>
+
+    <model n="26">
+      <legend type="string"></legend>
+      <heading-deg type="double">-40</heading-deg>
+      <pitch-deg type="double">0</pitch-deg>
+      <roll-deg type="double">0</roll-deg>
+      <path type="string">Models/lfke-airport/MaisonBureau.ac</path>
+      <latitude-deg type="double">45.02845791</latitude-deg>
+      <longitude-deg type="double">5.309897008</longitude-deg>
+      <elevation-ft type="double">795.211538</elevation-ft>
+      <absolute-path type="string">/usr/local/share/FlightGear/build/install/share/data/Models/lfke-airport/MaisonBureau.ac</absolute-path>
+      <stg-path type="string">e000n40/e005n45/3039681.stg</stg-path>
+      <stg-heading-deg type="double">40</stg-heading-deg>
+      <elevation-m type="double">242.3804768</elevation-m>
+      <object-line type="string">OBJECT_SHARED Models/lfke-airport/MaisonBureau.ac 5.30989701 45.02845791 242.3805 40.0</object-line>
+    </model>
+  </models>
+</PropertyList>
+

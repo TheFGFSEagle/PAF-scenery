@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<PropertyList>
+  <runway>
+    <ils>
+      <lon>-149.942397</lon>
+      <lat>61.1698140000001</lat>
+      <rwy>07L</rwy>
+      <hdg-deg>89.94</hdg-deg>
+      <elev-m>46.33</elev-m>
+      <nav-id>ITGN</nav-id>
+    </ils>
+  </runway>
+  <runway>
+    <ils>
+      <lon>-149.967183</lon>
+      <lat>61.1678830000001</lat>
+      <rwy>07R</rwy>
+      <hdg-deg>89.92</hdg-deg>
+      <elev-m>46.33</elev-m>
+      <nav-id>IANC</nav-id>
+    </ils>
+  </runway>
+  <runway>
+    <ils>
+      <lon>-149.996</lon>
+      <lat>61.1666250000001</lat>
+      <rwy>14</rwy>
+      <hdg-deg>164.91</hdg-deg>
+      <elev-m>46.33</elev-m>
+      <nav-id>IBSC</nav-id>
+    </ils>
+  </runway>
+</PropertyList>

@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<PropertyList>
+  <runway>
+    <threshold>
+      <lon>32.9201226387551</lon>
+      <lat>-2.43822628551516</lat>
+      <rwy>12</rwy>
+      <hdg-deg>116.54</hdg-deg>
+      <displ-m>91</displ-m>
+      <stopw-m>187</stopw-m>
+    </threshold>
+    <threshold>
+      <lon>32.9452074782057</lon>
+      <lat>-2.45074359748706</lat>
+      <rwy>30</rwy>
+      <hdg-deg>296.54</hdg-deg>
+      <displ-m>0</displ-m>
+      <stopw-m>0</stopw-m>
+    </threshold>
+  </runway>
+</PropertyList>

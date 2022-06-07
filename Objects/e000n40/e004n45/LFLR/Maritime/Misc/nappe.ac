@@ -1,0 +1,26 @@
+AC3Db
+MATERIAL "DefaultWhite" rgb 1 1 1  amb 1 1 1  emis 0 0 0  spec 0.5 0.5 0.5  shi 64  trans 0
+MATERIAL "transparent" rgb 1 1 1 amb 1 1 1 emis 0 0 0 spec 0.5 0.5 0.5 shi 64 trans 0.15
+OBJECT world
+kids 1
+OBJECT poly
+name "nappe"
+data 5
+Plane
+texture "nappe.png"
+texrep 1 1
+crease 30.000000
+numvert 4
+116.872398 0.74104 -116.872391
+116.872398 0.74104 116.872398
+-116.872414 0.74104 116.872375
+-116.87236 0.74104 -116.872437
+numsurf 1
+SURF 0x00
+mat 1
+refs 4
+0 0.981960654259 0.98196041584
+3 0.0180394351482 0.981960952282
+2 0.0180391669273 0.0180394351482
+1 0.981960654259 0.0180393159389
+kids 0

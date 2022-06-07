@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<PropertyList>
+  <runway>
+    <ils>
+      <lon>-80.6037140000001</lon>
+      <lat>28.248789</lat>
+      <rwy>02</rwy>
+      <hdg-deg>19.82</hdg-deg>
+      <elev-m>2.74</elev-m>
+      <nav-id>ICOF</nav-id>
+    </ils>
+    <ils>
+      <lon>-80.6162470000001</lon>
+      <lat>28.218178</lat>
+      <rwy>20</rwy>
+      <hdg-deg>199.83</hdg-deg>
+      <elev-m>2.74</elev-m>
+      <nav-id>IPKC</nav-id>
+    </ils>
+  </runway>
+</PropertyList>

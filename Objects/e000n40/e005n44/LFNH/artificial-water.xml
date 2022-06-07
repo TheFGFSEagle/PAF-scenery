@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<PropertyList>
+
+  <path>artificial-water.ac</path>
+
+  <animation>
+    <object-name>border</object-name>
+    <object-name>water</object-name>
+  </animation>
+
+  <effect>
+    <inherits-from>Effects/water</inherits-from>
+    <object-name>water</object-name>
+  </effect>
+
+</PropertyList>
+

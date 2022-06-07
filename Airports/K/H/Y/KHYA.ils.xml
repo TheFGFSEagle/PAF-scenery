@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<PropertyList>
+  <runway>
+    <ils>
+      <lon>-70.2836330000001</lon>
+      <lat>41.66405</lat>
+      <rwy>24</rwy>
+      <hdg-deg>229.69</hdg-deg>
+      <elev-m>13.11</elev-m>
+      <nav-id>IHYA</nav-id>
+    </ils>
+  </runway>
+  <runway>
+    <ils>
+      <lon>-70.2787670000001</lon>
+      <lat>41.663131</lat>
+      <rwy>15</rwy>
+      <hdg-deg>139.88</hdg-deg>
+      <elev-m>12.19</elev-m>
+      <nav-id>IBCU</nav-id>
+    </ils>
+  </runway>
+</PropertyList>

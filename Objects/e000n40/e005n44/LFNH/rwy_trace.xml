@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PropertyList>
+
+  <path>rwy_trace.ac</path>
+
+  <animation>
+    <type>noshadow</type>
+    <object-name>rwy.001</object-name>
+  </animation>
+
+<!--  <animation>
+    <type>alpha-test</type>
+    <object-name>rwy.001</object-name>
+    <alpha-factor>1</alpha-factor>
+  </animation>
+
+  <shininess>0</shininess>-->
+
+   <animation>
+    <object-name>rwy.001</object-name>
+    <enable-hot type="bool">false</enable-hot>
+  </animation>
+
+</PropertyList>
+

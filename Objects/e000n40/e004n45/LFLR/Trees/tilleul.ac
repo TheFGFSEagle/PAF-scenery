@@ -1,0 +1,26 @@
+AC3Db
+MATERIAL "DefaultWhite" rgb 1 1 1  amb 1 1 1  emis 0 0 0  spec 0.5 0.5 0.5  shi 64  trans 0
+MATERIAL "NoName" rgb 1 1 0.8 amb 0.933333 0.933333 0.933333 emis 0 0 0 spec 0 0 0 shi 2 trans 0
+OBJECT world
+kids 1
+OBJECT poly
+name "Plane"
+data 4
+Mesh
+texture "tilleul.png"
+texrep 1 1
+crease 30.000000
+numvert 4
+4 8 0
+4 0 0
+-4 0 0
+-4 8 0
+numsurf 1
+SURF 0x00
+mat 1
+refs 4
+0 1.0 1.0
+3 0.0 1.0
+2 0.0 0.0
+1 1.0 0.0
+kids 0

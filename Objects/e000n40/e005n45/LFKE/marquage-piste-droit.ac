@@ -1,0 +1,25 @@
+AC3Db
+MATERIAL "DefaultWhite" rgb 1 1 1  amb 1 1 1  emis 0 0 0  spec 0.5 0.5 0.5  shi 64  trans 0
+OBJECT world
+kids 1
+OBJECT poly
+name "marquage-piste-droit"
+data 9
+Plane.001
+texture "st-jean-textures.rgb"
+texrep 1 1
+crease 30.000000
+numvert 4
+0.984527 0.004688 1.292147
+0.984527 0.004688 1.843222
+-1.895177 0.004688 1.843222
+-1.895176 0.004688 1.292146
+numsurf 1
+SURF 0x00
+mat 0
+refs 4
+0 0.295504808426 0.818919479847
+3 0.116537004709 0.818919479847
+2 0.116536974907 0.784671247005
+1 0.295504808426 0.784671247005
+kids 0

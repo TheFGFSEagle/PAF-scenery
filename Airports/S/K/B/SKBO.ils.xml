@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<PropertyList>
+  <runway>
+    <ils>
+      <lon>-74.1226810000001</lon>
+      <lat>4.691153</lat>
+      <rwy>13L</rwy>
+      <hdg-deg>127.21</hdg-deg>
+      <elev-m>2546.60</elev-m>
+      <nav-id>EDR</nav-id>
+    </ils>
+  </runway>
+  <runway>
+    <ils>
+      <lon>-74.1390690000001</lon>
+      <lat>4.687703</lat>
+      <rwy>13R</rwy>
+      <hdg-deg>127.23</hdg-deg>
+      <elev-m>2546.60</elev-m>
+      <nav-id>ADO</nav-id>
+    </ils>
+  </runway>
+</PropertyList>
